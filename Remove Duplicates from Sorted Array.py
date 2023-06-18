@@ -1,4 +1,5 @@
- Remove Duplicates from Sorted Array
+#In this code we are removing duplicates from sorted array
+Remove Duplicates from Sorted Array
 
 class Solution(object):
     def removeDuplicates(self, nums):
