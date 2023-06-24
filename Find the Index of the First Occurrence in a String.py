@@ -1,3 +1,4 @@
+#This code finds the index of the first occurence in the String.
 class Solution(object):
     def strStr(self, haystack, needle):
         if needle == '':
